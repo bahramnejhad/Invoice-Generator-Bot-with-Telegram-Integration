@@ -188,7 +188,7 @@ async def generate_invoice(update, context):
 # تابع اصلی
 def main():
     # توکن بات خود را اینجا وارد کنید
-    application = Application.builder().token("5674179006:AAE6qtdgL-M6gmwusGxQzo3OYxqcWYEZoF0").build()
+    application = Application.builder().token("YourToken").build()
 
     # اضافه کردن هندلرها
     application.add_handler(CommandHandler("start", start))
