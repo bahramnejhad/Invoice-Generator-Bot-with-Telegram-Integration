@@ -52,6 +52,3 @@ This project is a Telegram bot that allows users to generate sales invoices by i
 - The bot stores user data in a JSON file (`user_data.json`), which includes their phone number, store name, and invoice items.
 - Ensure that the required fonts (`Vazir.ttf` and `Vazir-Bold.ttf`) are available in your project directory for Arabic text support.
 
----
-
-این توضیحات می‌تواند کمک کند تا دیگران به راحتی پروژه شما را در گیت‌هاب مشاهده و استفاده کنند.
